@@ -20,7 +20,7 @@ def get_little_indian_from_decimal(nonce_decimal):
 
 def get_merkle_root():
     # this is calculated with the transactions
-    merkle_root = "3ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a"
+    merkle_root = "bc1qyhx8td2kchmk6jyla6dxq9v06gdk5tfm7p380n"
     return merkle_root
 
 def get_timestamp():
